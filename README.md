@@ -1,4 +1,4 @@
-# proShop
+# Pharmacy
 
 This is an full fledged E-commmerce website project which contains all features.
 This is made on react and node.
